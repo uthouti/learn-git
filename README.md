@@ -1,2 +1,6 @@
-# learn-git
-a test to learn git 
+# Learn about git and github
+
+``` Python 
+print("Hello World")
+
+```
